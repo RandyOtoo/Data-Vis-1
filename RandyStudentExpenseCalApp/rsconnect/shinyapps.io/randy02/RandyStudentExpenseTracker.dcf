@@ -1,0 +1,12 @@
+name: RandyStudentExpenseTracker
+title: RandyStudentExpenseTracker
+username: randy02
+account: randy02
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12016628
+bundleId: 8624242
+url: https://randy02.shinyapps.io/RandyStudentExpenseTracker/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
